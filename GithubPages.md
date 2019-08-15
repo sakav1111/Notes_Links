@@ -11,3 +11,5 @@ http://jekyllthemes.org/themes/documentation-theme-jekyll/ - doc - 2.5/5
 https://jekyllthemes.io/theme/docs-responsive-documentation-or-manual-jekyll-theme - doc - 3.75/5
 
 https://deanattali.com/beautiful-jekyll/ - with center img - 3/5
+
+https://github.com/kitian616/jekyll-TeXt-theme - TEXT THEME - 4/5 - FIX
